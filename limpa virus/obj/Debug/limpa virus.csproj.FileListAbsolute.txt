@@ -1,0 +1,9 @@
+c:\users\educação\documents\visual studio 2012\Projects\limpa virus\limpa virus\bin\Debug\limpa virus.exe.config
+c:\users\educação\documents\visual studio 2012\Projects\limpa virus\limpa virus\bin\Debug\limpa virus.exe
+c:\users\educação\documents\visual studio 2012\Projects\limpa virus\limpa virus\bin\Debug\limpa virus.pdb
+c:\users\educação\documents\visual studio 2012\Projects\limpa virus\limpa virus\obj\Debug\limpa virus.csprojResolveAssemblyReference.cache
+c:\users\educação\documents\visual studio 2012\Projects\limpa virus\limpa virus\obj\Debug\limpa_virus.Form1.resources
+c:\users\educação\documents\visual studio 2012\Projects\limpa virus\limpa virus\obj\Debug\limpa_virus.Properties.Resources.resources
+c:\users\educação\documents\visual studio 2012\Projects\limpa virus\limpa virus\obj\Debug\limpa virus.csproj.GenerateResource.Cache
+c:\users\educação\documents\visual studio 2012\Projects\limpa virus\limpa virus\obj\Debug\limpa virus.exe
+c:\users\educação\documents\visual studio 2012\Projects\limpa virus\limpa virus\obj\Debug\limpa virus.pdb
